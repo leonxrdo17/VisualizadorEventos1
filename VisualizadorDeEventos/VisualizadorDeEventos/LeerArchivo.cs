@@ -17,7 +17,7 @@ namespace VisualizadorDeEventos
         public void leerArchivos()
         {
             //Leer archivo
-            using (StreamReader leer = new StreamReader(@"C:\Users\vargu\OneDrive\Escritorio\Capacitación Blue Ocean\Curso de Buenas Prácticas en PHP\RetoCouch\eventos.txt"))
+            using (StreamReader leer = new StreamReader(@"C:\Users\vargu\RetoCouch1\eventos.txt"))
             {
                 while (!leer.EndOfStream)
                 {
