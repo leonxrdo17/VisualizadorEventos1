@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20e17dfc-99fc-48a1-8954-ae7de1f68db1": {
+      "ProjectGuid": "20e17dfc-99fc-48a1-8954-ae7de1f68db1",
+      "DisplayName": "VisualizadorDeEventos",
+      "ColorIndex": 0
+    },
+    "e3d6c915-031e-4b98-ae6e-5c3812a45206": {
+      "ProjectGuid": "e3d6c915-031e-4b98-ae6e-5c3812a45206",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
